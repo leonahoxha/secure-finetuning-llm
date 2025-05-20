@@ -1,0 +1,100 @@
+Context:
+Name: Employee_30958
+Job Titles: LIEUTENANT
+Full or Part-Time: F
+Salary or Hourly: SALARY
+Annual Salary: 160800.0
+
+Question: Which department does this employee work in?
+Answer:
+
+Context:
+Name: Employee_14996
+Department: CHICAGO FIRE DEPARTMENT
+Full or Part-Time: F
+Salary or Hourly: SALARY
+Annual Salary: 130908.0
+
+Question: Job title?
+Answer:
+
+Context:
+Name: Employee_14048
+Job Titles: AMBULANCE COMMANDER
+Department: CHICAGO FIRE DEPARTMENT
+Full or Part-Time: F
+Salary or Hourly: SALARY
+
+Question: Annual salary of this person?
+Answer:
+
+Context:
+Name: Employee_10122
+Department: CHICAGO FIRE DEPARTMENT
+Full or Part-Time: F
+Salary or Hourly: SALARY
+Annual Salary: 105936.0
+
+Question: What is the job title of this employee?
+Answer:
+
+Context:
+Name: Employee_06563
+Department: CHICAGO FIRE DEPARTMENT
+Full or Part-Time: F
+Salary or Hourly: SALARY
+Annual Salary: 130908.0
+
+Question: Job title?
+Answer:
+
+Context:
+Name: Employee_02633
+Job Titles: POLICE OFFICER
+Full or Part-Time: F
+Salary or Hourly: SALARY
+Annual Salary: 102822.0
+
+Question: Department name?
+Answer:
+
+Context:
+Name: Employee_04774
+Job Titles: CAPTAIN-EMT
+Department: CHICAGO FIRE DEPARTMENT
+Full or Part-Time: F
+Annual Salary: 151764.0
+
+Question: Salary or hourly?
+Answer:
+
+Context:
+Name: Employee_28182
+Job Titles: POLICE OFFICER
+Department: CHICAGO POLICE DEPARTMENT
+Salary or Hourly: SALARY
+Annual Salary: 111804.0
+
+Question: Is this a full-time or part-time employee?
+Answer:
+
+Context:
+Job Titles: LIEUTENANT-EMT
+Department: CHICAGO FIRE DEPARTMENT
+Full or Part-Time: F
+Salary or Hourly: SALARY
+Annual Salary: 126840.0
+
+Question: What is the employee's name?
+Answer:
+
+Context:
+Name: Employee_28608
+Department: CHICAGO POLICE DEPARTMENT
+Full or Part-Time: F
+Salary or Hourly: SALARY
+Annual Salary: 61782.0
+
+Question: What is the job title of this employee?
+Answer:
+

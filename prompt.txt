@@ -1,0 +1,9 @@
+Context:
+Name: Employee_01501
+Job Titles: CONSTRUCTION LABORER
+Department: DEPARTMENT OF WATER MANAGEMENT
+Full or Part-Time: F
+Annual Salary: 24072.0
+
+Question: Is this person paid salary or hourly?
+Answer:
